@@ -19,15 +19,15 @@ This course is a detailed exploration of the advanced data visualization concept
 To fully benefit from the coverage included in this course, you will need:<br/>
 Basic knowledge of R and ggplot is assumed
 ### Technical Requirements
-This course has the following software requirements:<br/>
+Hardware Requirements:<br/>
 <UL>
 <LI>OS: Windows 7 or higher \ Mac OS X \ Linux (any modern flavor) </LI>
 <LI>Processor: Intel \ AMD</LI>
 <LI>Memory: 4GB</LI>
 <LI>Storage: 50 GB Free Space on the Hard Disk</LI> </UL>
 
-Software Requirements
-
+Software Requirements:<br/>
+<UL>
 <LI>Browser: Chrome or Firefox</LI>
 <LI>R Studio, Latest Version</LI>
 <LI>ggplot2</LI></UL>
