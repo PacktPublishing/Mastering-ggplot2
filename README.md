@@ -20,16 +20,17 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Basic knowledge of R and ggplot is assumed
 ### Technical Requirements
 This course has the following software requirements:<br/>
-OS: Windows 7 or higher \ Mac OS X \ Linux (any modern flavor) 
-Processor: Intel \ AMD
-Memory: 4GB
-Storage: 50 GB Free Space on the Hard Disk
+<UL>
+<LI>OS: Windows 7 or higher \ Mac OS X \ Linux (any modern flavor) </LI>
+<LI>Processor: Intel \ AMD</LI>
+<LI>Memory: 4GB</LI>
+<LI>Storage: 50 GB Free Space on the Hard Disk</LI> </UL>
 
 Software Requirements
 
-Browser: Chrome or Firefox
-R Studio, Latest Version
-ggplot2
+<LI>Browser: Chrome or Firefox</LI>
+<LI>R Studio, Latest Version</LI>
+<LI>ggplot2</LI></UL>
 
 ## Related Products
 * [Applied Data Visualization with R and ggplot2](https://www.packtpub.com/big-data-and-business-intelligence/applied-data-visualization-r-and-ggplot2-0?utm_source=github&utm_medium=repository&utm_campaign=9781789808476)
